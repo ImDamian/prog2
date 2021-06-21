@@ -1,0 +1,16 @@
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.exe
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.deps.json
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.runtimeconfig.json
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.runtimeconfig.dev.json
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.dll
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\bin\Debug\net5.0\ref\winkelmandje.dll
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.pdb
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.csprojAssemblyReference.cache
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.GeneratedMSBuildEditorConfig.editorconfig
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.AssemblyInfoInputs.cache
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.AssemblyInfo.cs
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.csproj.CoreCompileInputs.cache
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.dll
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\ref\winkelmandje.dll
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.pdb
+G:\MEGA\school\deltion\ao2a\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.genruntimeconfig.cache
