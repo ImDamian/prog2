@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\factory\\factory.csproj": {}
+    "C:\\Users\\Simon\\Repositories\\prog2\\factory\\factory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\factory\\factory.csproj": {
+    "C:\\Users\\Simon\\Repositories\\prog2\\factory\\factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\factory\\factory.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Repositories\\prog2\\factory\\factory.csproj",
         "projectName": "factory",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\factory\\factory.csproj",
+        "projectPath": "C:\\Users\\Simon\\Repositories\\prog2\\factory\\factory.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\factory\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Repositories\\prog2\\factory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -21,7 +21,6 @@ C:\Users\Simon\Repositories\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.run
 C:\Users\Simon\Repositories\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.dll
 C:\Users\Simon\Repositories\prog2\winkelmandje\bin\Debug\net5.0\ref\winkelmandje.dll
 C:\Users\Simon\Repositories\prog2\winkelmandje\bin\Debug\net5.0\winkelmandje.pdb
-C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.csprojAssemblyReference.cache
 C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.AssemblyInfoInputs.cache
 C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.AssemblyInfo.cs
@@ -30,3 +29,4 @@ C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.dll
 C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\ref\winkelmandje.dll
 C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.pdb
 C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.genruntimeconfig.cache
+C:\Users\Simon\Repositories\prog2\winkelmandje\obj\Debug\net5.0\winkelmandje.csproj.AssemblyReference.cache

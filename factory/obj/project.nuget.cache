@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KfiEQcPPm7OsqcB8CMLa0fO+2FtFWCOd/pc7eX4/ZR+SxocEWaSLVwB1224HYW0h+CQM/la/lh0AwxrBzLQ9Nw==",
+  "dgSpecHash": "SRGl+u9b8n+D1afUimeXMLkKRUbpkZMYhnvKyjGzKXe9BdEXl9n9G9cvsEWXeMuhqK21iD3QbRGPevjyl13wGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simon\\Desktop\\factory\\factory.csproj",
+  "projectFilePath": "C:\\Users\\Simon\\Repositories\\prog2\\factory\\factory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simon\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
