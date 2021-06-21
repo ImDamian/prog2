@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Repositories\\prog2\\database\\database.csproj": {}
+    "C:\\Users\\Simon\\Repositories\\prog2\\database\\database.csproj": {}
   },
   "projects": {
-    "G:\\Repositories\\prog2\\database\\database.csproj": {
+    "C:\\Users\\Simon\\Repositories\\prog2\\database\\database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repositories\\prog2\\database\\database.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Repositories\\prog2\\database\\database.csproj",
         "projectName": "database",
-        "projectPath": "G:\\Repositories\\prog2\\database\\database.csproj",
+        "projectPath": "C:\\Users\\Simon\\Repositories\\prog2\\database\\database.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "G:\\Repositories\\prog2\\database\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Repositories\\prog2\\database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
